@@ -5,3 +5,7 @@ https://dev.to/aurelievache/learning-go-by-examples-part-3-create-a-cli-app-in-g
 ## Setting GOPATH
 
 https://go.dev/doc/gopath_code
+
+## Usig Taskfile
+
+https://taskfile.dev/#/
